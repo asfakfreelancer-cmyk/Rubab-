@@ -1,0 +1,6 @@
+{
+  "name": "Rubab Manager",
+  "description": "An advanced Android assistant and database manager with glassmorphism layout, a background floating overlay popup, Bangladeshi name generator, dynamic passwords, and Excel exporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
